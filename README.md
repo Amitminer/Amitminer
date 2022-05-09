@@ -5,4 +5,6 @@ Hi there 👋
 - 💬 Ask me about nothing xD 
 - 😄 Pronouns: male
 - ⚡ Fun fact: xD
+
+![Amitminer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitminer888&theme=highcontrast&show_icons=true)
 -->
