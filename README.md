@@ -8,3 +8,5 @@ Hi there 👋
 
 ![Amitminer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitminer888&theme=highcontrast&show_icons=true)
 -->
+<h4 align="center">Visitor's count </h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Amitminer888}/count.svg" alt="Amitminer :: Visitor's Count" /></p>
