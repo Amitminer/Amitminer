@@ -6,7 +6,7 @@ Hi there 👋
 - 😄 Pronouns: male
 - ⚡ Fun fact: xD
 
-[![Discord!](https://lanyard.cnrad.dev/api/814660125511778315?hideStatus=true)](https://discord.com/users/814660125511778315)
+[![Discord!](https://lanyard.cnrad.dev/api/814660125511778315?idleMessage=who i am?)](https://discord.com/users/814660125511778315)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitminer&layout=compact)](https://github.com/Amitminer/github-readme-stats)
 ![Amitminer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitminer888&theme=highcontrast&show_icons=true)
 -->
