@@ -1,5 +1,5 @@
 Hi there 👋
-- 😉 my name: Amitminer/Amitminer888
+- 😉 my username: Amitminer/Amitminer888/AmitxD
 - 🔭 I’m currently working on: Private mine plugin - php
 - 🌱 I’m currently learning: php and python xD
 - 💬 Ask me about nothing xD 
