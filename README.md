@@ -6,9 +6,9 @@ Hi there 👋
 - 😄 Pronouns: male
 - ⚡ Fun fact: xD
 
+[![Discord!](https://lanyard.cnrad.dev/api/814660125511778315)](https://discord.com/users/:id)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitminer&layout=compact)](https://github.com/Amitminer/github-readme-stats)
 ![Amitminer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitminer888&theme=highcontrast&show_icons=true)
 -->
-![My Discord](https://discord.com/api/guilds/814660125511778315/widget.png?style=banner2"></a>)
 <h4 align="center">Visitor's count </h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Amitminer888}/count.svg" alt="Amitminer :: Visitor's Count" /></p>
