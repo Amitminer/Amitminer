@@ -1,6 +1,6 @@
 Hi there 👋
 - 😉 my name: Amitminer/Amitminer888
-- 🔭 I’m currently working on: discord bot
+- 🔭 I’m currently working on: Private mine plugin - php
 - 🌱 I’m currently learning: php and python xD
 - 💬 Ask me about nothing xD 
 - 😄 Pronouns: male
