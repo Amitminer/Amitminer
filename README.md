@@ -8,6 +8,6 @@ Hi there 👋
 
 ![Amitminer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitminer888&theme=highcontrast&show_icons=true)
 -->
-![My Discord](https://discord-readme-badge.vercel.app/api?id=814660125511778315)
+![My Discord](https://discord.com/api/guilds/814660125511778315/widget.png?style=banner2"></a>)
 <h4 align="center">Visitor's count </h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Amitminer888}/count.svg" alt="Amitminer :: Visitor's Count" /></p>
