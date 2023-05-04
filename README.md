@@ -1,6 +1,6 @@
 Hi there 👋
 - 😉 my username: Amitminer/Amitminer888/AmitxD
-- 🔭 I’m currently working on: Private mine plugin - php
+- 🔭 I’m currently working on: nothing!
 - 🌱 I’m currently learning: php and python xD
 - 💬 Ask me about nothing xD 
 - 😄 Pronouns: male
