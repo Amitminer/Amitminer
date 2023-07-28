@@ -2,7 +2,7 @@ Hi there! 👋
 
 - 😉 My username: Amitminer/Amitminer888/AmitxD
 - 🔭 I’m currently working on: Nothing at the moment!
-- 🌱 I’m currently learning: PHP and Python,C Language,NodejS,, trying to sharpen my coding skills.
+- 🌱 I’m currently learning: PHP and Python,C Language,, trying to sharpen my coding skills.
 - 💬 Ask me about: Feel free to ask me anything, although I might not have all the answers!
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or interesting projects to collaborate on.
