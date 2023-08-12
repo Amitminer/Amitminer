@@ -1,9 +1,16 @@
-Hi there! 👋
+## Hello! 👋 I'm Amit
 
-- 😉 My username: Amitminer/Amitminer888/AmitxD
-- 🔭 I’m currently working on: Nothing at the moment!
-- 🌱 I’m currently learning: PHP and Python,C Language,, trying to sharpen my coding skills.
-- 💬 Ask me about: Feel free to ask me anything, although I might not have all the answers!
+A self-taught developer from India, specializing in PHP and exploring beyond. Welcome to my GitHub space!
+
+- 🌱 Currently honing my PHP skills and delving into new coding realms.
+- 🔭 Crafting personal projects that challenge and expand my expertise.
+- 🌍 Proudly representing India in the world of coding.
+- 😄 You can find me as AmitxD, Amitminer, or Amitminer888.
+
+### Skills 🚀
+
+- PHP Artisan: Developing intricate web applications with self-taught wisdom.
+- Learning Explorer: Adventuring into diverse programming languages and technologies
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or interesting projects to collaborate on.
 <h3 align="left">Connect with me:</h3>
