@@ -9,7 +9,6 @@ Thanks for visiting my profile! Feel free to explore my repositories and reach o
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Amitminer&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Amitminer&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitminer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 -->
 <h4 align="center">Visitor's count </h4>
