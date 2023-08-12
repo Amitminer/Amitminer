@@ -18,7 +18,7 @@ Thanks for visiting my profile! Feel free to explore my repositories and reach o
 <a href="https://twitter.com/amitxd75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitxd75" height="30" width="40" /></a>
 <a href="https://instagram.com/amitminer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amitminer" height="30" width="40" /></a>
 <a href="https://account.xbox.com/en-in/profile?gamertag=Amitminer" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Xbox.svg" alt="Amitminer" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/9HjY9S6yxK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9HjY9S6yxK" height="30" width="40" /></a>
+<a href="https://discord.com/users/814660125511778315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/814660125511778315" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
