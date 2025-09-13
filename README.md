@@ -3,7 +3,8 @@
 Self-taught developer from India 🇮🇳.  
 I work with **Rust**, **TypeScript**, and **Next.js** — always learning, always shipping.  
 
-🌐 Portfolio: [amitminer.github.io](https://amitminer.github.io/)
+🌐 Portfolio: [amitminer.github.io](https://amitminer.github.io/)  
+🔗 Alt account: [amitxd75](https://github.com/amitxd75)
 
 ---
 
